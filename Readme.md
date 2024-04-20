@@ -59,7 +59,7 @@ python render_sphere.py -m <path to pre-trained model> -s <path to COLMAP datase
 
 在数据集中的playroom场景中进行`render_sphere.py`渲染所得图像
 
-![image-20240418111031119](C:\Users\chichoo\AppData\Roaming\Typora\typora-user-images\image-20240418111031119.png)
+![image-20240420122830641](images/image-20240420122830641.png)
 
 ## 改进
 
